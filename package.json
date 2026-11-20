@@ -1,0 +1,24 @@
+{
+  "name": "lab10-zi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zainabejaz702-lab/Lab10-ZI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/zainabejaz702-lab/Lab10-ZI/issues"
+  },
+  "homepage": "https://github.com/zainabejaz702-lab/Lab10-ZI#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
